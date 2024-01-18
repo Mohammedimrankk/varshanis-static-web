@@ -1,0 +1,27 @@
+.imageProduct{
+    width: 290px;
+    height: auto;
+}
+.divImageProduct{
+    display: block;
+    margin-top: 20px;
+    margin-left: -5px;
+}
+.divDataProduct{
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.body1{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+}
+.data{
+    text-align: left;
+    margin-bottom: 10px;
+}
